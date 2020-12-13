@@ -1,4 +1,5 @@
-### Hi there 👋
+![Cover](https://raw.githubusercontent.com/niccou/niccou/main/img/pexels-luis-gomes-546819.jpg)
+Photo de luis gomes provenant de Pexels
 
 <!--
 **niccou/niccou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
