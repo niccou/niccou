@@ -4,6 +4,12 @@ I'm a C# developper with more than 15 years of experience. I work with .Net 6+, 
 
 I train mayself on F#, React and Typescript.
 
+![](https://raw.githubusercontent.com/niccou/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/niccou/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/niccou/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/niccou/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
 ![Cover](https://raw.githubusercontent.com/niccou/niccou/main/img/pexels-luis-gomes-546819.jpg)
 Photo de luis gomes provenant de Pexels
 
