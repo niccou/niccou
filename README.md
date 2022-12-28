@@ -1,3 +1,9 @@
+Hi,
+
+I'm a C# developper with more than 15 years of experience. I work with .Net 6+, Visual Studio 2022, Visual Studio Code.
+
+I train mayself on F#, React and Typescript.
+
 ![Cover](https://raw.githubusercontent.com/niccou/niccou/main/img/pexels-luis-gomes-546819.jpg)
 Photo de luis gomes provenant de Pexels
 
